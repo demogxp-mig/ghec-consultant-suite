@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@fastify/rate-limit": "^11.2.0",
-    "@fastify/static": "^10.1.5",
+    "@fastify/static": "^10.1.6",
     "@ghec/contracts": "0.1.0",
     "@ghec/discovery": "0.1.0",
     "@ghec/github-client": "0.1.0",
